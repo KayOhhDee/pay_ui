@@ -3,7 +3,7 @@ import { Link as RouterLink } from 'react-router-dom';
 // @mui
 import { Box } from '@mui/material';
 
-import logoImg from '../assets/images/logo.png'
+import logoImg from '../assets/images/logo.svg'
 
 // ----------------------------------------------------------------------
 
